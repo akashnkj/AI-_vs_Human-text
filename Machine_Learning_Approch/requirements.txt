@@ -1,0 +1,12 @@
+flask
+memory_profiler
+streamlit==1.30.0
+ipykernel
+numpy
+pandas
+scikit-learn
+xgboost
+textstat
+pyspellchecker
+
+
